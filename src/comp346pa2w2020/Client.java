@@ -13,8 +13,7 @@ import java.util.InputMismatchException;
 
 /** Client class
  *
- * @author Kerly Titus
-* @author Michael Rowe
+ * @author RemineralizedWater
  */
 
 public class Client extends Thread {
