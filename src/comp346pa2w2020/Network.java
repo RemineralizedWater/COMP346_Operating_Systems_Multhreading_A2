@@ -10,8 +10,7 @@ import java.util.concurrent.Semaphore;      // Needed for Mutex/Semaphore implem
 
 /** Network class
  *
- * @author Kerly Titus
-* @author Michael Rowe
+ * @author RemineralizedWater
  */
 public class Network extends Thread {
 
