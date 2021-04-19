@@ -8,8 +8,7 @@ package comp346pa2w2020;
 
 /** Transactions class
  *
- * @author Kerly Titus
-* @author Michael Rowe
+ * @author RemineralizedWater
  */
 public class Transactions {             // MYDEBUG: no changes to Transactions class from PA1
     
