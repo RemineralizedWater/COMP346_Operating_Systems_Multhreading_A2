@@ -7,9 +7,7 @@ package comp346pa2w2020;
  */
 
 /**
- *
- * @author Kerly Titus
-* @author Michael Rowe
+* @author RemineralizedWater
  */
 public class Comp346pa2driver {
 
