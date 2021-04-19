@@ -8,8 +8,7 @@ package comp346pa2w2020;
 
 /** Accounts class
  *
- * @author Kerly Titus
-* @author Michael Rowe
+ * @authorRemineralizedWater
  */
 public class Accounts {                 // MYDEBUG: no changes to Accounts class from PA1
     
